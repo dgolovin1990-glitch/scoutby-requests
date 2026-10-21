@@ -54,3 +54,7 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+
+# Generated standalone deployment configuration
+/wrangler.local.json
+/wrangler.deploy.json
